@@ -1,2 +1,1 @@
-# mathematical-makers
-Mathematical and Computational thinking
+# Mathematical Makers: Mathematical and Computational thinking
