@@ -1,6 +1,9 @@
 # Mathematical Makers: Mathematical and Computational thinking
+
 Pensar/preguntas
+
 Diseño de la solución (Programación)
+
 Analizar los resultados
 
 ## Requirements
