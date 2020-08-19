@@ -2,10 +2,12 @@
 
 ## Requirements
 
-#### To install requirements:
+To install requirements:
 ```python
-  conda env create -f environment.yml
- ```
+conda env create -f environment.yml
+```
 
-#### Creates a conda environment called m6nips20. You can access this with the following command:
-`conda activate m6nips20`
+Creates a conda environment called m6nips20. You can access this with the following command:
+```python
+conda activate m6nips20
+```
