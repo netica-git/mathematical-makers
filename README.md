@@ -25,7 +25,7 @@ Un ejemplo se presentan en la Global Grand Challenges Summit México 2019 en est
 ### Objetivos 
 
 1. Generar 12 sesiones en línea, fundamentos de codificación-IA (para estudiantes y maestros) ofrecer el curso a 20 escuelas públicas.
-2. Seleccione a los mejores profesores y estudiantes para participar y organizar 1 torneo
+2. Seleccione a los mejores profesores y estudiantes para participar y organizar 1 torneo.
 3. Medir el impacto del proyecto e informar la metodología y los resultados.
 
 
