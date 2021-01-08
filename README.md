@@ -17,16 +17,16 @@ Un ejemplo se presentan en la Global Grand Challenges Summit México 2019 en est
 
 ### Metas a largo plazo
 
-- 1. Incrementar el interés por la adopción de la ingeniería entre los escolares en áreas y temas de ciencia, tecnología, ingeniería y matemáticas (STEM).
-- 2. Mejorar las habilidades de pensamiento computacional a través de la codificación de juegos de creación propia, para estudiantes de nivel primario o secundario.
-- 3. Desarrollar las habilidades necesarias (codificación y fundamentos de IA) para abordar los desafíos emergentes de ingeniería.
+1. Incrementar el interés por la adopción de la ingeniería entre los escolares en áreas y temas de ciencia, tecnología, ingeniería y matemáticas (STEM).
+2. Mejorar las habilidades de pensamiento computacional a través de la codificación de juegos de creación propia, para estudiantes de nivel primario o secundario.
+3. Desarrollar las habilidades necesarias (codificación y fundamentos de IA) para abordar los desafíos emergentes de ingeniería.
 
 
 ### Objetivos 
 
-- 1. Generar 12 sesiones en línea, fundamentos de codificación-IA (para estudiantes y maestros) ofrecer el curso a 20 escuelas públicas.
-- 2. Seleccione a los mejores profesores y estudiantes para participar y organizar 1 torneo
-- 3. Medir el impacto del proyecto e informar la metodología y los resultados.
+1. Generar 12 sesiones en línea, fundamentos de codificación-IA (para estudiantes y maestros) ofrecer el curso a 20 escuelas públicas.
+2. Seleccione a los mejores profesores y estudiantes para participar y organizar 1 torneo
+3. Medir el impacto del proyecto e informar la metodología y los resultados.
 
 
 ### Actividades propuestas y cronograma
